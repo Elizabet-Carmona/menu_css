@@ -4,5 +4,8 @@
 .menu .hijo {
   color: red;
 }
+.menu .menu .hola {
+  color: rebeccapurple;
+}
 
 /*# sourceMappingURL=style.css.map */
